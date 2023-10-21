@@ -1,0 +1,103 @@
+/*Responsive Media Queries( Start-> )*/
+
+
+@media screen and (min-width:1600px){
+
+}
+
+
+@media screen and (min-width:992px) and (max-width:1200px){
+  .shop-sec {
+    height: 456px;
+    }
+    
+}
+
+
+/*750***991*/
+@media screen and (min-width:750px) and (max-width:991px){
+  .ser-about-h2 {
+    font-size: 3rem;
+}
+.ser-about-btn {
+    font-size: 15px;
+}
+strong {
+    
+    font-size: 1.25rem;
+}
+em {
+    font-size: 18px;
+}
+.shop-sec {
+    height: 395px;
+    
+}
+
+
+}
+
+
+/*749*/
+@media screen and (max-width:749px){
+  .ser-bnr {
+   height: 400px;
+  }
+ .ser-bnr-content {
+    margin-top: 8rem;
+}
+.ser-bnr-h1 {
+    font-size: 4rem;
+    color: white !important;
+}
+.image {
+    height: 400px;
+   }
+.image2 {
+    height: 400px;
+   }
+ strong {
+    
+    font-size: 1.5rem;
+}
+em {
+    font-size: 28px;
+}
+
+}
+
+/*320*/
+@media screen and (max-width:320px){
+  .ser-bnr {
+   height: 350px;
+  }
+ .ser-bnr-content {
+    margin-top: 10rem;
+}
+.ser-bnr-h1 {
+    font-size: 3rem;
+    color: white !important;
+}
+.navbar-brand {
+    
+    display: none;
+}
+.image {
+    height: 350px;
+   }
+.image2 {
+    height: 350px;
+   }
+  strong {
+    
+    font-size: 1.25rem;
+}
+em {
+    font-size: 22px;
+}
+
+}
+
+
+/*Responsive Media Queries( Start-> )*/
+

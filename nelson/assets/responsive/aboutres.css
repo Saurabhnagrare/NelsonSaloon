@@ -1,0 +1,117 @@
+/*Responsive Media Queries( Start-> )*/
+
+
+@media screen and (min-width:1600px){
+
+}
+
+@media screen and (min-width:1025px) and (max-width:1200px){
+  
+}
+
+@media screen and (min-width:992px) and (max-width:1024px){
+  .dnone{
+    display: none;
+  }
+  .overlay-h3 {
+    font-size: 3rem !important;
+}
+}
+
+/**/
+@media screen and (min-width:750px) and (max-width:991px){
+ .dis-none{
+    display: none;
+ }
+ .carousel-h3 {
+    font-size: 4rem;
+    
+}
+.carousel-p {
+    font-size: 1rem;
+}
+.image1 {
+    height:22rem;
+}
+.image2 {
+    height: 22rem;
+}
+.abut-team-h2 {
+    font-size: 3rem;
+}
+.overlay-p {
+    font-size: 12px;
+}
+.overlay-h3 {
+    font-size: 2rem !important;
+}
+
+}
+
+/**/
+@media screen and (max-width:749px){
+   .bnr-content {
+    margin-top: 7rem;
+}
+.abut-bnr {
+    height: 360px;
+}
+.abut-h2 {
+    font-size: 4.5rem;
+   }
+.navbar-brand {
+    width: 24%;
+}
+.abut-team-content{
+    order: 1;
+}
+.abut-team-img{
+    order: 2;
+}
+.overlay-h3 {
+    font-size: 2.5rem !important;
+}
+.vdo-img{
+    height: 330px;
+}
+.vdo-img{
+    order: 2;
+}
+
+}
+
+/**/
+@media screen and (max-width:320px){
+  .bnr-content {
+    margin-top: 6rem;
+}
+.abut-bnr {
+    height: 330px;
+}
+.abut-h2 {
+    font-size: 4rem;
+    
+}
+.navbar-brand {
+    width: 28%;
+}
+.abut-team-content{
+    order: 1;
+}
+.abut-team-img{
+    order: 2;
+}
+.overlay-h3 {
+    font-size: 2rem !important;
+}
+.vdo-img{
+    height: 300px;
+}
+.vdo-img{
+    order: 2;
+}
+
+}
+
+
+/*Responsive Media Queries( Start-> )*/

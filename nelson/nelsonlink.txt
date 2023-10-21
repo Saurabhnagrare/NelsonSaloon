@@ -1,0 +1,9 @@
+about-    file:///C:/Users/Abhishek/Desktop/nelson/about.html
+
+contact -       file:///C:/Users/Abhishek/Desktop/nelson/contact.html
+
+gallery -    file:///C:/Users/Abhishek/Desktop/nelson/gallery-salon.html
+
+home-    file:///C:/Users/Abhishek/Desktop/nelson/home.html
+
+service - file:///C:/Users/Abhishek/Desktop/nelson/service.html

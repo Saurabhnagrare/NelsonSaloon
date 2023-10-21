@@ -1,0 +1,28 @@
+/*Responsive Media Queries( Start-> )*/
+
+
+@media screen and (min-width:1600px){
+
+}
+@media screen and (min-width:992px) and (max-width:1200px){
+
+}
+@media screen and (min-width:750px) and (max-width:991px){
+
+}
+@media screen and (max-width:749px){
+   .row3{
+  	display: none;
+  }
+}
+@media screen and (max-width:320px){
+  .row3{
+  	display: none;
+  }
+
+  
+}
+
+
+/*Responsive Media Queries( Start-> )*/
+
